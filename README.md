@@ -45,17 +45,6 @@ Java8 改变了我们思考和编码的方式，在这里你可以学习到 Java
 - 本套课程的所有源码存储在 [Github](https://github.com/biezhi/learn-java8) 上
 - 欢迎关注知乎专栏 [《跟上 Java 8》](https://zhuanlan.zhihu.com/java8) 学习更多优质内容
 
-## 交流
-
-在学习 Java8 过程中有疑问可以在QQ群：**663887729** 交流或者在视频的评论区留言。
-你也可以在 Github 上发起一个 [issue](https://github.com/biezhi/learn-java8/issues/new) 提问。
-
-## 捐赠作者
-
-我们提供的所有视频和源码都是免费的，如果你在这个过程中学习到了技能可以扫描下方二维码赞赏作者。
-
-<img src="https://i.imgur.com/4mr92X1.png" width="580"/>
-
 ## 授权许可
 
 除特别声明外，本套教程中的内容使用 [CC BY-SA 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/deed.zh)（创作共用 署名-相同方式共享 3.0 许可协议）授权，
